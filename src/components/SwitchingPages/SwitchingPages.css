@@ -1,0 +1,57 @@
+.wrap-sp {
+  max-width: 1770px;
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  padding: 20px;
+}
+.wrap-number-page-sp {
+  display: flex;
+  flex: -1;
+  align-items: center;
+  list-style-type: none;
+  padding: 20px;
+}
+
+.number-page {
+  margin: 0 10px;
+  background: rgb(97, 212, 212);
+  padding: 15px 25px;
+  border-radius: 5px;
+  font-size: 1.6rem;
+  cursor: pointer;
+}
+
+.previous-page,
+.next-pages {
+  font-size: 2rem;
+  font-weight: bold;
+  background: rgb(97, 212, 212);
+  color: white;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.previous-page {
+  margin-left: 0px;
+}
+
+.next-pages {
+  margin-right: 0px;
+}
+
+/* ============================= */
+
+.previous-page:hover,
+.next-pages:hover,
+.number-page:hover {
+  background: rgb(212, 107, 107);
+  transition: background 0.5s ease;
+  cursor: not-allowed; /* Значок "стоп" при наведении */
+}
+
+@media (max-width: 680px) {
+  .wrap-sp {
+    display: none;
+  }
+}

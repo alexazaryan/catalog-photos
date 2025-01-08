@@ -1,0 +1,14 @@
+.lf-li-box {
+  max-width: 1770px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.lf-h1 {
+  max-width: 1770px;
+  padding: 10px;
+  color: rgb(97, 212, 212);
+  margin: 10px auto;
+}

@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "date": "05 Jul 2022",
+    "views": "8,453 views",
+    "src": "./img-01.jpg",
+    "title": "USA",
+    "description": "The USA is known for its diverse culture and iconic landmarks. From New York to California, it offers a variety of experiences. A hub of technology, entertainment, and innovation."
+  },
+  {
+    "id": 2,
+    "date": "18 Oct 2020",
+    "views": "9,906 views",
+    "src": "./img-02.jpg",
+    "title": "Italy",
+    "description": "Italy is renowned for its art, architecture, and cuisine. The country is home to famous cities like Rome, Florence, and Venice. A perfect blend of history and modern charm."
+  },
+  {
+    "id": 3,
+    "date": "01 Jan 2021",
+    "views": "13,120 views",
+    "src": "./img-03.jpg",
+    "title": "Japan",
+    "description": "Japan blends ancient traditions with cutting-edge technology. It is famous for its temples, cherry blossoms, and vibrant cities like Tokyo. A nation where innovation and culture coexist."
+  },
+  {
+    "id": 4,
+    "date": "14 Mar 2022",
+    "views": "11,342 views",
+    "src": "./img-04.jpg",
+    "title": "Brazil",
+    "description": "Brazil is known for its vibrant festivals, beautiful beaches, and the Amazon rainforest. Rio de Janeiro's Carnival and the iconic Christ the Redeemer statue are major attractions. A country with rich cultural diversity."
+  },
+  {
+    "id": 5,
+    "date": "30 Apr 2023",
+    "views": "9,906 views",
+    "src": "./img-05.jpg",
+    "title": "Spain",
+    "description": "Spain is famous for its lively culture, delicious food, and historical landmarks. Cities like Madrid and Barcelona offer a mix of modern and historic charm. Known for flamenco dancing and delicious tapas."
+  },
+  {
+    "id": 6,
+    "date": "15 Aug 2020",
+    "views": "7,654 views",
+    "src": "./img-06.jpg",
+    "title": "France",
+    "description": "France is a world leader in art, fashion, and cuisine. The Eiffel Tower and Paris' museums are just the start. A country with a rich history and sophisticated culture."
+  },
+  {
+    "id": 7,
+    "date": "22 Feb 2022",
+    "views": "10,905 views",
+    "src": "./img-07.jpg",
+    "title": "Germany",
+    "description": "Germany is known for its precision engineering, historical landmarks, and beer culture. It is home to cities like Berlin, Munich, and Hamburg. A nation with a rich history of innovation and culture."
+  },
+  {
+    "id": 8,
+    "date": "10 Nov 2020",
+    "views": "12,001 views",
+    "src": "./img-08.jpg",
+    "title": "UK",
+    "description": "The UK is a blend of history, culture, and modern life. London is a global financial and cultural hub. With landmarks like the Tower of London and Buckingham Palace, it is full of history."
+  },
+  {
+    "id": 9,
+    "date": "06 Dec 2021",
+    "views": "9,213 views",
+    "src": "./img-09.jpg",
+    "title": "Australia",
+    "description": "Australia is known for its stunning beaches, wildlife, and laid-back lifestyle. From the Great Barrier Reef to Sydney, it offers outdoor adventures. A country of natural beauty and modern cities."
+  },
+  {
+    "id": 10,
+    "date": "28 Jan 2023",
+    "views": "11,501 views",
+    "src": "./img-10.jpg",
+    "title": "Mexico",
+    "description": "Mexico offers a rich mix of history, culture, and cuisine. From the ancient ruins of the Maya to beautiful beaches like Cancun, it's a top destination. Known for vibrant festivals like Día de los Muertos."
+  },
+  {
+    "id": 11,
+    "date": "17 Feb 2020",
+    "views": "10,002 views",
+    "src": "./img-11.jpg",
+    "title": "India",
+    "description": "India is a land of rich traditions, vibrant festivals, and diverse cultures. The Taj Mahal and ancient temples are must-see sights. A country of contrasts, from bustling cities to peaceful landscapes."
+  },
+  {
+    "id": 12,
+    "date": "24 May 2022",
+    "views": "8,712 views",
+    "src": "./img-12.jpg",
+    "title": "Canada",
+    "description": "Canada is known for its vast wilderness, multicultural cities, and friendly people. From the Rocky Mountains to Toronto, it offers breathtaking landscapes. A peaceful nation with rich natural beauty."
+  },
+  {
+    "id": 13,
+    "date": "29 Jul 2021",
+    "views": "13,201 views",
+    "src": "./img-13.jpg",
+    "title": "Egypt",
+    "description": "Egypt is home to one of the world's oldest civilizations. The Pyramids of Giza and the Sphinx are iconic landmarks. A country of rich history, culture, and ancient wonders."
+  },
+  {
+    "id": 14,
+    "date": "08 Oct 2023",
+    "views": "14,505 views",
+    "src": "./img-14.jpg",
+    "title": "Russia",
+    "description": "Russia is known for its vast landscapes and rich cultural heritage. From the grandeur of the Kremlin to the beauty of Lake Baikal, it offers a unique blend of history and nature. A country of epic proportions."
+  },
+  {
+    "id": 15,
+    "date": "13 Jun 2021",
+    "views": "9,111 views",
+    "src": "./img-15.jpg",
+    "title": "China",
+    "description": "China is a country of ancient traditions and modern developments. The Great Wall and the Forbidden City are historical wonders. A rapidly growing economy and a global superpower."
+  },
+  {
+    "id": 16,
+    "date": "05 Sep 2022",
+    "views": "10,606 views",
+    "src": "./img-16.jpg",
+    "title": "Greece",
+    "description": "Greece is famous for its ancient ruins, islands, and Mediterranean lifestyle. Athens is a city steeped in history, while the islands offer stunning views. A perfect mix of culture and natural beauty."
+  },
+  {
+    "id": 17,
+    "date": "27 Mar 2020",
+    "views": "9,304 views",
+    "src": "./people-1.jpg",
+    "title": "Sweden",
+    "description": "Sweden is known for its high quality of life, beautiful nature, and innovative design. Stockholm, surrounded by water, is a vibrant capital. A country focused on sustainability and equality."
+  },
+  {
+    "id": 18,
+    "date": "16 Jan 2021",
+    "views": "7,890 views",
+    "src": "./people-2.jpg",
+    "title": "Netherlands",
+    "description": "The Netherlands is famous for its windmills, canals, and tulip fields. Amsterdam offers rich cultural experiences with art museums and history. A country that embraces sustainability and cycling."
+  },
+  {
+    "id": 19,
+    "date": "12 Apr 2022",
+    "views": "12,453 views",
+    "src": "./people-3.jpg",
+    "title": "Italy",
+    "description": "Italy is renowned for its art, architecture, and cuisine. From Rome’s ancient ruins to Venice’s canals, it’s full of beauty and history. A country that celebrates creativity and food."
+  },
+  {
+    "id": 20,
+    "date": "19 Nov 2023",
+    "views": "9,907 views",
+    "src": "./people-4.jpg",
+    "title": "Norway",
+    "description": "Norway is known for its breathtaking fjords and stunning landscapes. Oslo, its capital, is a hub of culture and design. A country where nature and modern living coexist."
+  }
+]

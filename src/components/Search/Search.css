@@ -1,0 +1,63 @@
+.sr-container {
+  background-size: contain;
+  background-attachment: fixed;
+  background-image: url("./hero.jpg");
+  background-position: center -250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 250px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+  min-width: 415px;
+}
+
+.sr-box {
+  display: flex;
+  max-width: 460px;
+  padding: 12px 15px;
+}
+
+.sr-button {
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-color: #009999;
+  border: none;
+  width: 150px;
+  height: 50px;
+  margin-left: -1px;
+
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.sr-button:hover {
+  background-color: rgb(73, 181, 73);
+}
+
+.sr-search {
+  font-size: 24px; /* Размер иконки */
+}
+/* =====================================================input start*/
+.sr-input {
+  width: 100%;
+  padding: 10px;
+  border: 2px solid #ccc; /* Начальный цвет бордера */
+  font-size: 16px;
+  transition: border-color 0.3s ease; /* Плавное изменение цвета */
+}
+
+.sr-input:focus {
+  border-color: #009999;
+  border-width: 4px;
+  outline: none;
+}
+
+.sr-input::placeholder {
+  color: #009999; /* Синий цвет для текста placeholder */
+}
+/* =====================================================input end*/

@@ -1,0 +1,61 @@
+.lf-h2 {
+  margin: 25px;
+}
+
+.lf-bloc {
+  border-radius: 4px;
+  margin-bottom: 20px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  margin: 5px;
+}
+
+.lf-li {
+  /* width: 415px; */
+  width: 360px;
+  max-width: 415px;
+  height: 235px;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  cursor: pointer;
+  border-radius: 4px;
+
+  background-position: center;
+  overflow: hidden;
+}
+
+.lf-li-text {
+  color: white;
+  transform: scale(3);
+  font-size: 3rem;
+  opacity: 0;
+  transition: transform 0.5s, opacity 0.5s, background-color 0.5s,
+    box-shadow 0.5s;
+}
+
+.lf-li:hover .lf-li-text {
+  width: 65%;
+  height: 65%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: scale(1);
+  opacity: 1;
+  background-color: rgba(0, 0, 0, 0.5);
+  box-shadow: 0 0 50px 150px rgba(141, 130, 130, 0.6);
+  border: 2px solid white;
+}
+
+.lf-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.card-date,
+.card-views {
+  margin: 10px;
+  color: rgb(70, 211, 211);
+}
